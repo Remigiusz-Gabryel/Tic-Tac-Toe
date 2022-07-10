@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="690.0" prefWidth="690.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ticktacktoe.EndGameController">
+   <children>
+      <VBox fx:id="vBox" layoutX="295.0" layoutY="525.0" prefHeight="111.0" prefWidth="100.0">
+         <children>
+            <Label fx:id="winnerLabel" alignment="CENTER" prefHeight="36.0" prefWidth="300.0" textAlignment="CENTER" wrapText="true">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Button maxWidth="100.0" minWidth="100.0" mnemonicParsing="false" onAction="#onPlayAgainButtonClick" prefWidth="100.0" text="Play Again" />
+            <Button maxWidth="100.0" minWidth="100.0" mnemonicParsing="false" onAction="#onMainMenuButtonClick" prefWidth="100.0" text="Return to menu" />
+            <Button maxWidth="100.0" minWidth="100.0" mnemonicParsing="false" onAction="#onExitButtonClick" prefWidth="100.0" text="Exit" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
