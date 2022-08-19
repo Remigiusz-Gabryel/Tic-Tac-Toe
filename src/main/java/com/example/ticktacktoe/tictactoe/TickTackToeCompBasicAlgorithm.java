@@ -3,7 +3,7 @@ package com.example.ticktacktoe.tictactoe;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TickTackToeAIBasicAlgorithm implements TicTackToeAIAlgorithm{
+public class TickTackToeCompBasicAlgorithm implements TicTackToeCompAlgorithm {
     private List<String> gameBoard;
     private final String SYMBOL_O = "O";
     private final String SYMBOL_X = "X";
@@ -36,9 +36,14 @@ public class TickTackToeAIBasicAlgorithm implements TicTackToeAIAlgorithm{
                 break;
             }
         }
-        if (aiPick < 0 && gameBoard.stream().filter(s -> !s.isEmpty()).count() < 2 && (gameBoard.get(0).equals("X") || gameBoard.get(2).equals("X") || gameBoard.get(6).equals("X") || gameBoard.get(8).equals("X"))){
+        if (aiPick < 0 && gameBoard.stream().filter(s -> !s.isEmpty()).count() < 2
+                && (gameBoard.get(0).equals("X")
+                || gameBoard.get(2).equals("X")
+                || gameBoard.get(6).equals("X")
+                || gameBoard.get(8).equals("X"))){
             aiPick = 4;
         }
+
         return aiPick;
     }
     private int checkRows(int index) {

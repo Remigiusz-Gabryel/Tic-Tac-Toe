@@ -1,8 +1,7 @@
 package com.example.ticktacktoe;
 
 import com.example.ticktacktoe.models.PlayerModel;
-import com.example.ticktacktoe.tictactoe.TicTackToeAIAlgorithm;
-import com.example.ticktacktoe.tictactoe.TickTackToeAIBasicAlgorithm;
+import com.example.ticktacktoe.tictactoe.TickTackToeCompBasicAlgorithm;
 import javafx.scene.Node;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
@@ -227,7 +226,7 @@ public class TicTacToeGame {
     }
 
     private int aiMove() {
-        TickTackToeAIBasicAlgorithm algorithm = new TickTackToeAIBasicAlgorithm();
+        TickTackToeCompBasicAlgorithm algorithm = new TickTackToeCompBasicAlgorithm();
         int aiPick = -1;
 
                 aiPick = algorithm.makeMove(gridValues);
