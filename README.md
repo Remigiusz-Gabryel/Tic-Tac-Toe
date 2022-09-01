@@ -19,6 +19,7 @@
 Tic-Tac-Toe game created with JavaFX. Play versus other players or with computer opponent.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Features
 
 * PVP game mode
