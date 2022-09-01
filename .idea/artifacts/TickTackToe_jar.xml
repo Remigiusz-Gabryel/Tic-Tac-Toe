@@ -1,18 +1,17 @@
 <component name="ArtifactManager">
-  <artifact name="TickTackToe:jar">
+  <artifact type="jar" name="TickTackToe:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/TickTackToe_jar</output-path>
-    <root id="root">
-      <element id="archive" name="TickTackToe.jar">
-        <element id="module-output" name="TickTackToe" />
-      </element>
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:17.0.1" />
-      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:17.0.1" />
+    <root id="archive" name="TickTackToe.jar">
+      <element id="module-output" name="TickTackToe" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.1/javafx-fxml-17.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.1/javafx-fxml-17.0.1.jar" path-in-jar="/" />
+      <element id="dir-copy" path="C:/Program Files/Java/jdk-17.0.3.1/bin" />
     </root>
   </artifact>
 </component>
