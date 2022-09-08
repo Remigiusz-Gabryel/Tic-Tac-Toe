@@ -95,13 +95,13 @@ Resources I would like to give credit to.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
 [contributors-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
 [forks-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
 [stars-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
 [issues-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/remigiusz-gabryel
+[linkedin-url]: https://www.linkedin.com/in/remigiusz-gabryel
