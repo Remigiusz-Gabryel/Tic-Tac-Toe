@@ -72,6 +72,7 @@
 ## Roadmap
 
 - [ ] Add Changelog
+- [ ] Make background images working
 - [ ] Add Difficulty level 
 - [ ] Add X's and O's skins
 
