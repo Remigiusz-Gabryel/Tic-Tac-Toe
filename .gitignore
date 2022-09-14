@@ -53,6 +53,7 @@ build/
 .mtj.tmp/
 
 # Package Files #
+!TicTacToe.jar
 *.jar
 *.war
 *.nar
