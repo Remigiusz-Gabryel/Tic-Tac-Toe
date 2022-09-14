@@ -2,7 +2,7 @@
   <artifact type="jar" name="TickTackToe:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/TickTackToe_jar</output-path>
     <root id="archive" name="TickTackToe.jar">
-      <element id="module-output" name="TickTackToe" />
+      <element id="module-output" name="TicTacToe" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1-win.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-win.jar" path-in-jar="/" />
