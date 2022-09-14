@@ -1,12 +1,43 @@
-<h1>TickTackToe</h1>
-
 <a name="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Remigiusz-Gabryel/TickTackToe">
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">TickTackToe</h3>
+
+
+  <p align="center">
+    Tic-Tac-Toe game created with JavaFX.
+    <br />
+    <a href="https://github.com/Remigiusz-Gabryel/TickTackToe"><strong>Explore the docs</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/Remigiusz-Gabryel/TickTackToe/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Remigiusz-Gabryel/TickTackToe/issues">Request Feature</a>
+  </p>
+</div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#description">Description</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -15,10 +46,11 @@
 </details>
 
 
-## Description
-Tic-Tac-Toe game created with JavaFX. Play versus other players or with computer opponent.
+## About The Project
+ Play versus other players or with computer opponent.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Features
 
 * PVP game mode
@@ -40,6 +72,7 @@ Tic-Tac-Toe game created with JavaFX. Play versus other players or with computer
 ## Roadmap
 
 - [ ] Add Changelog
+- [ ] Make background images working
 - [ ] Add Difficulty level 
 - [ ] Add X's and O's skins
 
@@ -60,3 +93,16 @@ Resources I would like to give credit to.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
+[contributors-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
+[forks-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/network/members
+[stars-shield]: https://img.shields.io/github/stars/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
+[stars-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Remigiusz-Gabryel/TickTackToe.svg?style=for-the-badge
+[issues-url]: https://github.com/Remigiusz-Gabryel/TickTackToe/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/remigiusz-gabryel
